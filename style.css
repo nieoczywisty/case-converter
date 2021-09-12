@@ -1,0 +1,7 @@
+#textarea{
+    border: solid blue 3px;
+    resize: none;
+}
+.main-content{
+    flex-flow: column;
+}
